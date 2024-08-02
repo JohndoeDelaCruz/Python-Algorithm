@@ -41,5 +41,5 @@ process_list = [
 # Runs the scheduling
 fcfs_scheduling(process_list)
 
-# Print yung potanginang process
+# Print processes
 print_processes(process_list)
